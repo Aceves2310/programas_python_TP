@@ -1,0 +1,10 @@
+Este es un registro de actividades
+===================================
+Autor: Alejandro Aceves
+Fecha: 2025-09-10
+
+2025-09-10 20:01 Creacion de archivo Logs
+2025-09-10 20:20 Mi primer programa
+17/09 se creo grafico.py
+2025-09-17 19:30 crear res_estadistico
+2025-09-17 19:30 crear programa de saludo
